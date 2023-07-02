@@ -1,4 +1,4 @@
-# yamlfmt-action
+# test-action
 
 WIP
 
