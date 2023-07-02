@@ -1,0 +1,8 @@
+name: Format yaml files
+description: Format yaml files using yamlfmt
+author: grimoh
+inputs:
+outputs:
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
